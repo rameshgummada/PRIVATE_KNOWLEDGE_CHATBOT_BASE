@@ -1,5 +1,9 @@
 Clone git repo
 
+Clopy .env.example to .env
+
+Save the file
+
 python3 -m venv venv_new
 
 cd venv_new/
@@ -24,6 +28,8 @@ Done. Total chunks in collection: 175
 Spaces to sync: ['ENG', 'DOCS']
 
 Make sure .env file should have correct Data
+
+
 
 
 gcloud auth application-default login
