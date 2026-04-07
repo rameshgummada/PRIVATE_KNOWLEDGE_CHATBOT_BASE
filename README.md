@@ -1,10 +1,15 @@
 Clone git repo
+
 python3 -m venv venv_new
+
 cd venv_new/
+
 source bin/activate
+
 python3 -m pip install -r requirements.txt
 
 (venv_new) bash-3.2$ python load_documents.py 
+
 No .docx or .pdf files found in data/documents. Add documents and re-run.
 (venv_new) bash-3.2$ python load_documents.py 
   Processing: Tutorial_EDIT.pdf
