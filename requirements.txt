@@ -1,0 +1,10 @@
+streamlit
+anthropic
+openai
+google-genai
+chromadb
+python-docx
+python-dotenv
+pypdf
+requests
+beautifulsoup4
